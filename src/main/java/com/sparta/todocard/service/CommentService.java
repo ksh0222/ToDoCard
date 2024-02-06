@@ -1,2 +1,10 @@
-package com.sparta.todocard.service;public class CommentService {
+package com.sparta.todocard.service;
+
+import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Service;
+
+@Service
+@RequiredArgsConstructor
+public class CommentService {
+
 }

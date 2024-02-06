@@ -1,2 +1,6 @@
-package com.sparta.todocard.entity;public enum UserRoleEnum {
+package com.sparta.todocard.entity;
+
+public enum UserRoleEnum {
+    USER,
+    ADMIN
 }

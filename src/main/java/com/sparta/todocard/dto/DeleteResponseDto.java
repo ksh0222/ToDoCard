@@ -1,2 +1,8 @@
-package com.sparta.todocard.dto;public class DeleteResponseDto {
+package com.sparta.todocard.dto;
+
+import lombok.Getter;
+
+@Getter
+public class DeleteResponseDto {
+
 }
